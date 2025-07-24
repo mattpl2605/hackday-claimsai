@@ -1,4 +1,4 @@
-# State Farm Hack Day 2025 - Claim AI
+# State Farm Hack Day 2025 - Claims AI
 
 ### Hack Day Team
 
